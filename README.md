@@ -1,7 +1,7 @@
 # Full Stack Club — Estudos, Projetos e Desafios
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Full%20Stack%20Club&fontAlign=50&fontSize=42&color=1E90FF&textBg=true&fontColor=ffffff&desc=Estudos%20•%20Projetos%20•%20Desafios&descAlign=50&descSize=18" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Full%20Stack%20Club&fontAlign=50&fontSize=42&color=1E90FF&textBg=true&fontColor=ffffff&height=120&desc=Estudos%20%20%E2%80%A2%20%20Projetos%20%20%E2%80%A2%20%20Desafios&descAlign=50&descSize=20" alt="banner"/>
 </p>
 
 <p align="center">
