@@ -39,6 +39,7 @@ Minha jornada para me tornar um desenvolvedor full stack, registrando aprendizad
 </p>
 
 ## Sumário
+
 - [Sobre](#sobre-o-repositório)
 - [Tecnologias](#tecnologias)
 - [Estrutura do repositório](#estrutura-do-repositório)
@@ -50,9 +51,11 @@ Minha jornada para me tornar um desenvolvedor full stack, registrando aprendizad
 - [Contribuição e contato](#contribuição-e-contato)
 
 ## Sobre o repositório
+
 Repositório com meus estudos, projetos, anotações e desafios desenvolvidos no Full Stack Club. Minhas anotações detalhadas ficam no Notion (não versionadas aqui). Aqui organizo minha evolução em JavaScript, TypeScript, React, React Native e Node.js, registrando aprendizado prático, códigos e minha jornada para me tornar um desenvolvedor full stack.
 
 ## Tecnologias
+
 - JavaScript (ES6+)
 - TypeScript
 - React
@@ -60,6 +63,7 @@ Repositório com meus estudos, projetos, anotações e desafios desenvolvidos no
 - Node.js
 
 ## Estrutura do repositório
+
 <details>
   <summary>Ver estrutura</summary>
 
@@ -84,73 +88,94 @@ FSC/
       └─ aula15/
 └─ formacoes/
    └─ code-start/
+      └─ front-club/
+         ├─ index.html
+         ├─ about.html
+         └─ f1.jpg
 └─ projetos/
 └─ bootcamps/
 ```
+
 Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
+
 </details>
 
 ## Como usar
+
 - Abrir qualquer `cursos/curso-js-iniciante/aulaXX/index.html` diretamente no navegador.
 - Para a formação atual: abrir `formacoes/code-start/` conforme a estrutura de cada módulo.
+- Módulo HTML básico: abrir `formacoes/code-start/front-club/index.html`.
 - Alternativa: usar a extensão Live Server no VS Code para servir a pasta da aula ou módulos das formações.
 
 ## Formações
+
 - Formação atual: `formacoes/code-start/`
+- Módulo HTML básico:
+  - Projeto: `front-club`
+  - Arquivos: [`index.html`](formacoes/code-start/front-club/index.html), [`about.html`](formacoes/code-start/front-club/about.html)
 - Novas formações serão adicionadas conforme o progresso no Notion.
 
 ## Projetos
+
 - Projetos pessoais e práticos: `projetos/`
 - Podem incluir apps web, mobile e APIs.
 
 ## Bootcamps
+
 - Projetos intensivos e desafios práticos: `bootcamps/`
 
 ## Roadmap
+
 Progresso geral: **16,66%** (conforme Notion)
 
-| Formação | Tipo | Status | Período | Mentor |
-|---|---|---|---|---|
-| Introdução (Apresentação do ambiente FSC) | Curso | ✅ Concluído | 10/11/2025 → 11/11/2025 | Liiiraa |
-| Produtividade & Organização | Curso | ✅ Concluído | 11/11/2025 → 11/11/2025 | Liiiraa |
-| Combo Aceleração de Mercado | Curso | ✅ Concluído | 17/11/2025 → 19/11/2025 | Liiiraa |
-| CodeStart | Curso | 🚧 Em andamento | desde 19/11/2025 | Liiiraa |
-| Formação em React | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Formação em Next.js | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Formação Full Stack Avançada | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Tech Recruiter Skills | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Intensivo de Inglês para Programadores | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Bootcamps / Projetos na Prática | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Curso UI PRO | Curso | ⭕ Não iniciado | — | Liiiraa |
-| MasterClass | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Formação em React Native | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Formação em SOLID | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Formação em Cybersecurity | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Mentorias Semanais | Curso | ⭕ Não iniciado | — | Liiiraa |
-| Full Stack Club Labs | Curso | ⭕ Não iniciado | — | Liiiraa |
+| Formação                                  | Tipo  | Status          | Período                 | Mentor  |
+| ----------------------------------------- | ----- | --------------- | ----------------------- | ------- |
+| Introdução (Apresentação do ambiente FSC) | Curso | ✅ Concluído    | 10/11/2025 → 11/11/2025 | Liiiraa |
+| Produtividade & Organização               | Curso | ✅ Concluído    | 11/11/2025 → 11/11/2025 | Liiiraa |
+| Combo Aceleração de Mercado               | Curso | ✅ Concluído    | 17/11/2025 → 19/11/2025 | Liiiraa |
+| CodeStart                                 | Curso | 🚧 Em andamento | desde 19/11/2025        | Liiiraa |
+| Formação em React                         | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Formação em Next.js                       | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Formação Full Stack Avançada              | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Tech Recruiter Skills                     | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Intensivo de Inglês para Programadores    | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Bootcamps / Projetos na Prática           | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Curso UI PRO                              | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| MasterClass                               | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Formação em React Native                  | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Formação em SOLID                         | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Formação em Cybersecurity                 | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Mentorias Semanais                        | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Full Stack Club Labs                      | Curso | ⭕ Não iniciado | —                       | Liiiraa |
 
 > Progresso será atualizado em incrementos de 16,667% a cada formação concluída (ref. Notion).
 
 ## Convenções
+
 - Organização por módulos (aulas, desafios e projetos).
 - Nomes de pastas e arquivos descritivos.
 - Commits objetivos e frequentes.
 
 ## Como contribuir
+
 - Faça fork do repositório.
 - Crie um branch: `feature/nome-da-feature` ou `fix/descricao`.
 - Commits objetivos: `feat: ...`, `fix: ...`, `docs: ...`.
 - Abra um Pull Request com descrição clara do que foi feito.
 
 ## Contato
+
 - Sugestões e melhorias são bem-vindas! Abra uma issue ou envie um PR.
 
 ## Progresso
+
 - Registro contínuo de aprendizados e código prático.
 - Atualizações do README conforme novos módulos são adicionados.
 
 ## Licença
+
 Este projeto está licenciado sob a licença MIT. Veja `LICENSE` para mais detalhes.
 
 ## Contribuição e contato
+
 Sugestões e melhorias são bem-vindas! Abra uma issue ou envie um PR.
