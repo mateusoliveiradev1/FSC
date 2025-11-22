@@ -88,10 +88,22 @@ FSC/
       └─ aula15/
 └─ formacoes/
    └─ code-start/
-      └─ front-club/
+      ├─ front-club/
+      │  ├─ index.html
+      │  ├─ about.html
+      │  ├─ blog.html
+      │  ├─ form.html
+      │  ├─ table.html
+      │  └─ img/
+      │     └─ f1.jpg
+      └─ desafio-html/
          ├─ index.html
-         ├─ about.html
-         └─ f1.jpg
+         ├─ pages/
+         │  ├─ about.html
+         │  ├─ congratulation.html
+         │  └─ contact.html
+         └─ img/
+            └─ perfil.jpg
 └─ projetos/
 └─ bootcamps/
 ```
@@ -105,6 +117,9 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
 - Abrir qualquer `cursos/curso-js-iniciante/aulaXX/index.html` diretamente no navegador.
 - Para a formação atual: abrir `formacoes/code-start/` conforme a estrutura de cada módulo.
 - Módulo HTML básico: abrir `formacoes/code-start/front-club/index.html`.
+- Páginas do módulo HTML básico:
+- `formacoes/code-start/front-club/about.html`, `blog.html`, `form.html`, `table.html`.
+- Desafio HTML: abrir `formacoes/code-start/desafio-html/index.html` e navegar pelas páginas em `pages/`.
 - Alternativa: usar a extensão Live Server no VS Code para servir a pasta da aula ou módulos das formações.
 
 ## Formações
@@ -112,7 +127,12 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
 - Formação atual: `formacoes/code-start/`
 - Módulo HTML básico:
   - Projeto: `front-club`
-  - Arquivos: [`index.html`](formacoes/code-start/front-club/index.html), [`about.html`](formacoes/code-start/front-club/about.html)
+  - Arquivos: [`index.html`](formacoes/code-start/front-club/index.html), [`about.html`](formacoes/code-start/front-club/about.html), [`blog.html`](formacoes/code-start/front-club/blog.html), [`form.html`](formacoes/code-start/front-club/form.html), [`table.html`](formacoes/code-start/front-club/table.html)
+  - Imagens: `img/f1.jpg`
+- Desafio HTML:
+  - Projeto: `desafio-html`
+  - Arquivos: [`index.html`](formacoes/code-start/desafio-html/index.html), [`about.html`](formacoes/code-start/desafio-html/pages/about.html), [`congratulation.html`](formacoes/code-start/desafio-html/pages/congratulation.html), [`contact.html`](formacoes/code-start/desafio-html/pages/contact.html)
+  - Imagens: `img/perfil.jpg`
 - Novas formações serão adicionadas conforme o progresso no Notion.
 
 ## Projetos
