@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contato</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="../index.html">Inicio</a></li>
+          <li><a href="./pages/about.html">Sobre mim</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div>
+        <form action="congratulation.html">
+          <label for="fullName">Nome completo:</label>
+          <input
+            type="text"
+            id="fullName"
+            name="fullName"
+            placeholder="Digite seu nome completo"
+            required
+          />
+          <div>
+            <label for="email">Email:</label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              placeholder="Digite seu email"
+              required
+            />
+          </div>
+
+          <div>
+            <label for="password">Senha:</label>
+            <input
+              type="password"
+              id="password"
+              name="password"
+              placeholder="Digite sua senha"
+              minlength="6"
+              required
+            />
+          </div>
+
+          <div>
+            <label>Genero</label>
+          </div>
+
+          <div>
+            <input type="radio" id="male" name="gender" value="male" />
+            <label for="male">Masculino</label>
+          </div>
+          <div>
+            <input type="radio" id="female" name="gender" value="female" />
+            <label for="female">Feminino</label>
+          </div>
+
+          <div>
+            <input type="radio" id="other" name="gender" value="other" />
+            <label for="other">Outro</label>
+          </div>
+
+          <div>
+            <label>Quais serviços você deseja contratar?</label>
+          </div>
+
+          <div>
+            <input
+              type="checkbox"
+              id="landing-page"
+              name="services"
+              value="landing-page"
+            />
+            <label for="landing-page">Criação de Landing Pages</label>
+          </div>
+          <div>
+            <input
+              type="checkbox"
+              id="create-app"
+              name="services"
+              value="create-app"
+            />
+            <label for="create-app">Criação de Aplicativos</label>
+          </div>
+          <div>
+            <input
+              type="checkbox"
+              id="format-computer"
+              name="services"
+              value="format-computer"
+            />
+            <label for="format-computer">Formatação de computadores</label>
+          </div>
+
+          <div>
+            <label for="message">Digite sua mensagem</label>
+            <div>
+              <textarea
+                id="message"
+                name="message"
+                rows="4"
+                placeholder="Digite sua mensagem aqui"
+              ></textarea>
+            </div>
+
+            <input type="submit" value="Finalizar"></input>
+            <input type="reset" value="Limpar"></input>
+          </div>
+          <div>
+            
+          </div>
+        </form>
+      </div>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Mateus Oliveira. Todos os direitos reservados.</p>
+    </footer>
+  </body>
+</html>

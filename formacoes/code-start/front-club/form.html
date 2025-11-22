@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário</title>
+  </head>
+  <body>
+    <form>
+      <div>
+        <label for="fullName">Nome Completo:</label>
+        <input
+          id="fullName"
+          name="fullName"
+          type="text"
+          placeholder="Digite seu nome completo"
+        />
+      </div>
+
+      <div>
+        <label for="email">E-mail:</label>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          placeholder="Digite seu e-mail"
+        />
+      </div>
+
+      <div>
+        <label for="birthDate">Data de Nascimento:</label>
+        <input id="birthDate" name="birthDate" type="date" />
+      </div>
+
+      <div>
+        <label for="password">Senha:</label>
+        <input
+          id="password"
+          name="password"
+          type="password"
+          minlength="6"
+          placeholder="Digite sua senha"
+        />
+      </div>
+
+      <div>
+        <label>Gênero:</label>
+        <div>
+          <input id="male" name="gender" type="radio" value="Masculino" />
+          <label for="male">Masculino</label>
+        </div>
+        <div>
+          <input id="female" name="gender" type="radio" value="Feminino" />
+          <label for="female">Feminino</label>
+        </div>
+      </div>
+
+      <div>
+        <input id="other" name="gender" type="radio" value="Outro" />
+        <label for="other">Outro</label>
+      </div>
+
+      <div>
+        <label>Pet:</label>
+        <div>
+          <input id="dog" name="dog" type="checkbox" />
+          <label for="dog">Cachorro</label>
+        </div>
+        <div>
+          <input id="cat" name="cat" type="checkbox" />
+          <label for="cat">Gato</label>
+        </div>
+      </div>
+
+      <div>
+        <label>Carro:</label>
+        <div>
+          <select id="car" name="car">
+            <option value="mercedes">Mercedes</option>
+            <option value="ferrari">Ferrari</option>
+            <option value="honda">Honda</option>
+            <option value="audi">Audi</option>
+          </select>
+        </div>
+      </div>
+      <div>
+        <label>Sobre mim</label>
+        <div>
+          <textarea
+            name="aboutMe"
+            placeholder="Digite uma breve descrição sobre você"
+          ></textarea>
+        </div>
+      </div>
+
+      <div>
+        <input type="submit" value="Finalizar" />
+        <input type="reset" value="Limpar " />
+      </div>
+    </form>
+  </body>
+</html>
