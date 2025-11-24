@@ -163,7 +163,6 @@ Progresso geral: **16,66%** (conforme Notion)
 | Produtividade & Organização               | Curso | ✅ Concluído    | 11/11/2025 → 11/11/2025 | Liiiraa |
 | Combo Aceleração de Mercado               | Curso | ✅ Concluído    | 17/11/2025 → 19/11/2025 | Liiiraa |
 | CodeStart                                 | Curso | 🚧 Em andamento | desde 19/11/2025        | Liiiraa |
-| CodeStart — Módulo CSS inicial            | Módulo| ✅ Concluído    | 24/11/2025              | Liiiraa |
 | Formação em React                         | Curso | ⭕ Não iniciado | —                       | Liiiraa |
 | Formação em Next.js                       | Curso | ⭕ Não iniciado | —                       | Liiiraa |
 | Formação Full Stack Avançada              | Curso | ⭕ Não iniciado | —                       | Liiiraa |
