@@ -88,6 +88,11 @@ FSC/
       └─ aula15/
 └─ formacoes/
    └─ code-start/
+      ├─ css/
+      │  ├─ index.html
+      │  ├─ styles.css
+      │  ├─ success.css
+      │  └─ success.html
       ├─ front-club/
       │  ├─ index.html
       │  ├─ about.html
@@ -120,6 +125,7 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
 - Páginas do módulo HTML básico:
 - `formacoes/code-start/front-club/about.html`, `blog.html`, `form.html`, `table.html`.
 - Desafio HTML: abrir `formacoes/code-start/desafio-html/index.html` e navegar pelas páginas em `pages/`.
+- Módulo CSS inicial: abrir `formacoes/code-start/css/index.html` e `formacoes/code-start/css/success.html`.
 - Alternativa: usar a extensão Live Server no VS Code para servir a pasta da aula ou módulos das formações.
 
 ## Formações
@@ -133,6 +139,9 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
   - Projeto: `desafio-html`
   - Arquivos: [`index.html`](formacoes/code-start/desafio-html/index.html), [`about.html`](formacoes/code-start/desafio-html/pages/about.html), [`congratulation.html`](formacoes/code-start/desafio-html/pages/congratulation.html), [`contact.html`](formacoes/code-start/desafio-html/pages/contact.html)
   - Imagens: `img/perfil.jpg`
+- Módulo CSS inicial:
+  - Projeto: `css`
+  - Arquivos: [`index.html`](formacoes/code-start/css/index.html), [`styles.css`](formacoes/code-start/css/styles.css), [`success.html`](formacoes/code-start/css/success.html), [`success.css`](formacoes/code-start/css/success.css)
 - Novas formações serão adicionadas conforme o progresso no Notion.
 
 ## Projetos
@@ -154,6 +163,7 @@ Progresso geral: **16,66%** (conforme Notion)
 | Produtividade & Organização               | Curso | ✅ Concluído    | 11/11/2025 → 11/11/2025 | Liiiraa |
 | Combo Aceleração de Mercado               | Curso | ✅ Concluído    | 17/11/2025 → 19/11/2025 | Liiiraa |
 | CodeStart                                 | Curso | 🚧 Em andamento | desde 19/11/2025        | Liiiraa |
+| CodeStart — Módulo CSS inicial            | Módulo| ✅ Concluído    | 24/11/2025              | Liiiraa |
 | Formação em React                         | Curso | ⭕ Não iniciado | —                       | Liiiraa |
 | Formação em Next.js                       | Curso | ⭕ Não iniciado | —                       | Liiiraa |
 | Formação Full Stack Avançada              | Curso | ⭕ Não iniciado | —                       | Liiiraa |
