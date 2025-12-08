@@ -1,3 +1,4 @@
 .trae/
 *.patch
 *.log
+ignore.js
