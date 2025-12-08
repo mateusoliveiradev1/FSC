@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center; /* centraliza horizontal */
+  align-items: center; /* centraliza vertical */
+  gap: 20px; /* espaçamento entre itens */
+  height: 300px; /* altura do container */
+  background-color: #f0f0f0; /* fundo do container */
+}
+
+.item {
+  width: 80px; /* tamanho igual */
+  height: 80px;
+  background-color: #fff;
+  border: 2px solid black;
+  border-radius: 6px;
+}

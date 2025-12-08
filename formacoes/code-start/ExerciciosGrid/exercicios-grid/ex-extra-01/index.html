@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      .gallery {
+        display: grid;
+        grid-template-columns: 2fr 1fr 1fr;
+        grid-auto-rows: 200px;
+        gap: 20px;
+      }
+
+      .gallery img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 8px;
+      }
+
+      /* Destaque da imagem principal */
+      .gallery .featured {
+        grid-column: 1 / span 2;
+        grid-row: 1 / span 2;
+      }
+
+      /* ----- RESPONSIVO ----- */
+
+      /* Tablets (máx 900px) → 2 colunas */
+      @media (max-width: 900px) {
+        .gallery {
+          grid-template-columns: 1fr 1fr;
+          grid-auto-rows: 180px;
+        }
+
+        .gallery .featured {
+          grid-column: 1 / span 2;
+          grid-row: auto;
+          height: 280px;
+        }
+      }
+
+      /* Celulares (máx 600px) → 1 coluna */
+      @media (max-width: 600px) {
+        .gallery {
+          grid-template-columns: 1fr;
+          grid-auto-rows: 200px;
+        }
+
+        .gallery .featured {
+          grid-column: 1;
+          grid-row: auto;
+          height: 260px;
+        }
+      }
+    </style>
+    <title>Grid: Extra 01</title>
+  </head>
+  <body>
+    <div class="gallery">
+      <img src="./images/img1.jpg" class="featured" alt="" />
+      <img src="./images/img2.jpg" alt="" />
+      <img src="./images/img3.jpg" alt="" />
+      <img src="./images/img4.jpg" alt="" />
+      <img src="./images/img5.jpg" alt="" />
+    </div>
+  </body>
+</html>

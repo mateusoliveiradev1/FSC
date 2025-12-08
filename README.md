@@ -149,6 +149,9 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
 - Projetos pessoais e práticos: `projetos/`
 - Podem incluir apps web, mobile e APIs.
 
+- Weather App — Repositório: https://github.com/mateusoliveiradev1/weather-app • Demo: https://weather-app-chi-ruddy-80.vercel.app/
+- Portfólio Dev — Repositório: https://github.com/mateusoliveiradev1/portfolio-dev2 • Demo: https://portfolio-dev2-lovat.vercel.app/
+
 ## Bootcamps
 
 - Projetos intensivos e desafios práticos: `bootcamps/`

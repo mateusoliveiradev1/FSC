@@ -1,0 +1,22 @@
+body {
+  background-color: #222;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border-radius: 5px;
+
+  /* transiçoes */
+  transition-property: all;
+  transition-duration: 2s;
+  transition-timing-function: ease-in;
+  transition-delay: 2s;
+
+  /* mesma coisa que as 4 linhas de cima */
+  transition: all 2s ease-in 2s;
+}
+.box:hover {
+  background-color: red;
+  border-radius: 50%;
+}
