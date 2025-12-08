@@ -93,6 +93,89 @@ FSC/
       │  ├─ styles.css
       │  ├─ success.css
       │  └─ success.html
+      ├─ Flexbox/
+      │  ├─ index.html
+      │  └─ styles.css
+      ├─ grid/
+      │  ├─ index.html
+      │  └─ styles.css
+      ├─ media-queries/
+      │  └─ index.html
+      ├─ position/
+      │  ├─ absolute.html
+      │  ├─ fixed.html
+      │  ├─ relative.html
+      │  └─ sticky.html
+      ├─ pseudo-selectors/
+      │  └─ index.html
+      ├─ pseudo-selectors-part-2/
+      │  └─ index.html
+      ├─ selectors-avancados/
+      │  └─ index.html
+      ├─ transicoes/
+      │  ├─ index.html
+      │  └─ styles.css
+      ├─ animacoes/
+      │  ├─ index.html
+      │  └─ styles.css
+      ├─ transformacao/
+      │  ├─ index.html
+      │  └─ style.css
+      ├─ variaveis/
+      │  ├─ index.html
+      │  ├─ variables.css
+      │  ├─ about.html
+      │  └─ about.css
+      ├─ ex-flexbox/
+      │  ├─ README.md
+      │  ├─ ex-extra/
+      │  │  ├─ index.html
+      │  │  └─ styles.css
+      │  ├─ exercicio-01/
+      │  │  └─ index.html
+      │  ├─ exercicio-02/
+      │  │  └─ index.html
+      │  └─ exercicio-03/
+      │     └─ index.html
+      ├─ ex-position/
+      │  ├─ exercicio-01/
+      │  │  └─ index.html
+      │  ├─ exercicio-02/
+      │  │  └─ index.html
+      │  ├─ exercicio-03/
+      │  │  └─ index.html
+      │  ├─ exercicio-04/
+      │  │  └─ index.html
+      │  ├─ exercicio-extra-01/
+      │  │  └─ index.html
+      │  ├─ exercicio-extra-02/
+      │  │  └─ index.html
+      │  ├─ exercicio-extra-03/
+      │  │  └─ index.html
+      │  └─ exercicio-extra-04/
+      │     └─ index.html
+      ├─ ExerciciosGrid/
+      │  └─ exercicios-grid/
+      │     ├─ README.md
+      │     ├─ ex-extra-01/
+      │     │  ├─ index.html
+      │     │  └─ images/
+      │     │     ├─ img1.jpg
+      │     │     ├─ img2.jpg
+      │     │     ├─ img3.jpg
+      │     │     ├─ img4.jpg
+      │     │     └─ img5.jpg
+      │     ├─ exercicio-01/
+      │     │  └─ index.html
+      │     ├─ exercicio-02/
+      │     │  └─ index.html
+      │     └─ exercicio-03/
+      │        ├─ index.html
+      │        └─ images/
+      │           ├─ balloons1.jpg
+      │           ├─ balloons2.jpg
+      │           ├─ balloons3.jpg
+      │           └─ balloons4.jpg
       ├─ front-club/
       │  ├─ index.html
       │  ├─ about.html
@@ -130,24 +213,23 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
 
 ## Formações
 
-- Formação atual: `formacoes/code-start/`
-- Módulo HTML básico:
-  - Projeto: `front-club`
-  - Arquivos: [`index.html`](formacoes/code-start/front-club/index.html), [`about.html`](formacoes/code-start/front-club/about.html), [`blog.html`](formacoes/code-start/front-club/blog.html), [`form.html`](formacoes/code-start/front-club/form.html), [`table.html`](formacoes/code-start/front-club/table.html)
-  - Imagens: `img/f1.jpg`
-- Desafio HTML:
-  - Projeto: `desafio-html`
-  - Arquivos: [`index.html`](formacoes/code-start/desafio-html/index.html), [`about.html`](formacoes/code-start/desafio-html/pages/about.html), [`congratulation.html`](formacoes/code-start/desafio-html/pages/congratulation.html), [`contact.html`](formacoes/code-start/desafio-html/pages/contact.html)
-  - Imagens: `img/perfil.jpg`
-- Módulo CSS inicial:
-  - Projeto: `css`
-  - Arquivos: [`index.html`](formacoes/code-start/css/index.html), [`styles.css`](formacoes/code-start/css/styles.css), [`success.html`](formacoes/code-start/css/success.html), [`success.css`](formacoes/code-start/css/success.css)
-- Novas formações serão adicionadas conforme o progresso no Notion.
+<details>
+  <summary>CodeStart — módulos</summary>
+
+- HTML — concluído
+- HTML avançado — concluído
+- CSS — concluído
+- CSS avançado — concluído
+- Próximos módulos serão adicionados conforme o progresso.
+
+</details>
 
 ## Projetos
 
 - Projetos pessoais e práticos: `projetos/`
 - Podem incluir apps web, mobile e APIs.
+- Nota: os projetos práticos desta formação estão em repositórios separados.
+  A pasta `projetos/` local permanece vazia até consolidarmos projetos internos.
 
 - Weather App — Repositório: https://github.com/mateusoliveiradev1/weather-app • Demo: https://weather-app-chi-ruddy-80.vercel.app/
 - Portfólio Dev — Repositório: https://github.com/mateusoliveiradev1/portfolio-dev2 • Demo: https://portfolio-dev2-lovat.vercel.app/
@@ -160,25 +242,25 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
 
 Progresso geral: **16,66%** (conforme Notion)
 
-| Formação                                  | Tipo  | Status          | Período                 | Mentor  |
-| ----------------------------------------- | ----- | --------------- | ----------------------- | ------- |
-| Introdução (Apresentação do ambiente FSC) | Curso | ✅ Concluído    | 10/11/2025 → 11/11/2025 | Liiiraa |
-| Produtividade & Organização               | Curso | ✅ Concluído    | 11/11/2025 → 11/11/2025 | Liiiraa |
-| Combo Aceleração de Mercado               | Curso | ✅ Concluído    | 17/11/2025 → 19/11/2025 | Liiiraa |
-| CodeStart                                 | Curso | 🚧 Em andamento | desde 19/11/2025        | Liiiraa |
-| Formação em React                         | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Formação em Next.js                       | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Formação Full Stack Avançada              | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Tech Recruiter Skills                     | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Intensivo de Inglês para Programadores    | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Bootcamps / Projetos na Prática           | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Curso UI PRO                              | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| MasterClass                               | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Formação em React Native                  | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Formação em SOLID                         | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Formação em Cybersecurity                 | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Mentorias Semanais                        | Curso | ⭕ Não iniciado | —                       | Liiiraa |
-| Full Stack Club Labs                      | Curso | ⭕ Não iniciado | —                       | Liiiraa |
+| Formação                                  | Tipo  | Status          | Período                 | Mentor       |
+| ----------------------------------------- | ----- | --------------- | ----------------------- | ------------ |
+| Introdução (Apresentação do ambiente FSC) | Curso | ✅ Concluído    | 10/11/2025 → 11/11/2025 | Felipe Rocha |
+| Produtividade & Organização               | Curso | ✅ Concluído    | 11/11/2025 → 11/11/2025 | Felipe Rocha |
+| Combo Aceleração de Mercado               | Curso | ✅ Concluído    | 17/11/2025 → 19/11/2025 | Felipe Rocha |
+| CodeStart                                 | Curso | 🚧 Em andamento | desde 19/11/2025        | Felipe Rocha |
+| Formação em React                         | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Formação em Next.js                       | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Formação Full Stack Avançada              | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Tech Recruiter Skills                     | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Intensivo de Inglês para Programadores    | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Bootcamps / Projetos na Prática           | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Curso UI PRO                              | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| MasterClass                               | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Formação em React Native                  | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Formação em SOLID                         | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Formação em Cybersecurity                 | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Mentorias Semanais                        | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
+| Full Stack Club Labs                      | Curso | ⭕ Não iniciado | —                       | Felipe Rocha |
 
 > Progresso será atualizado em incrementos de 16,667% a cada formação concluída (ref. Notion).
 
