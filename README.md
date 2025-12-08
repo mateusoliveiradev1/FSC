@@ -216,7 +216,7 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
 <details>
   <summary>CodeStart — módulos</summary>
 
-- Progresso da formação: **55,6%**
+- Progresso da formação: **60,7%**
 - HTML — concluído
   - Ver módulo: [front-club/](formacoes/code-start/front-club/)
 - HTML avançado — concluído
@@ -225,7 +225,8 @@ Cada `aulaXX` contém `index.html`, scripts JS e, quando aplicável, estilos.
   - Ver módulo: [css/](formacoes/code-start/css/)
 - CSS avançado — concluído
   - Mini sumário: [Flexbox/](formacoes/code-start/Flexbox/), [grid/](formacoes/code-start/grid/), [position/](formacoes/code-start/position/), [media-queries/](formacoes/code-start/media-queries/), [pseudo-selectors/](formacoes/code-start/pseudo-selectors/), [pseudo-selectors-part-2/](formacoes/code-start/pseudo-selectors-part-2/), [selectors-avancados/](formacoes/code-start/selectors-avancados/), [transicoes/](formacoes/code-start/transicoes/), [animacoes/](formacoes/code-start/animacoes/), [transformacao/](formacoes/code-start/transformacao/), [variaveis/](formacoes/code-start/variaveis/), [ExerciciosGrid/](formacoes/code-start/ExerciciosGrid/), [ex-flexbox/](formacoes/code-start/ex-flexbox/), [ex-position/](formacoes/code-start/ex-position/)
-- Git e GitHub — em andamento
+- Git e GitHub — concluído
+- JavaScript — em andamento
 - Próximos módulos serão adicionados conforme o progresso.
 
 </details>
